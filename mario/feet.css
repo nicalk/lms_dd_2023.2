@@ -1,0 +1,113 @@
+.looks {
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border: 1px solid black;
+  }
+
+div.relative_feet {
+    position: relative;
+    width: 240px;
+    height: 40px;
+    left: 160px;
+    top: 150px;
+    border: 1px solid black
+} 
+
+div.absolute_feet11 {
+    position: absolute;
+    top: 0px;
+    left: 20px;
+    background-color: rgb(34, 23, 13)
+}
+
+div.absolute_feet12 {
+    position: absolute;
+    top: 0px;
+    left: 40px;
+    background-color: rgb(34, 23, 13)
+}
+
+div.absolute_feet13 {
+    position: absolute;
+    top: 0px;
+    left: 60px;
+    background-color: rgb(34, 23, 13)
+}
+
+div.absolute_feet14 {
+    position: absolute;
+    top: 0px;
+    left: 160px;
+    background-color: rgb(34, 23, 13)
+}
+
+div.absolute_feet15 {
+    position: absolute;
+    top: 0px;
+    left: 180px;
+    background-color: rgb(34, 23, 13)
+}
+
+div.absolute_feet16 {
+    position: absolute;
+    top: 0px;
+    left: 200px;
+    background-color: rgb(34, 23, 13)
+}
+
+div.absolute_feet21 {
+    position: absolute;
+    top: 20px;
+    left: 0px;
+    background-color: rgb(34, 23, 13)
+}
+
+div.absolute_feet22 {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: rgb(34, 23, 13)
+}
+
+div.absolute_feet23 {
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    background-color: rgb(34, 23, 13)
+}
+
+div.absolute_feet24 {
+    position: absolute;
+    top: 20px;
+    left: 60px;
+    background-color: rgb(34, 23, 13)
+}
+
+div.absolute_feet25 {
+    position: absolute;
+    top: 20px;
+    left: 160px;
+    background-color: rgb(34, 23, 13)
+}
+
+div.absolute_feet26 {
+    position: absolute;
+    top: 20px;
+    left: 180px;
+    background-color: rgb(34, 23, 13)
+}
+
+div.absolute_feet27 {
+    position: absolute;
+    top: 20px;
+    left: 200px;
+    background-color: rgb(34, 23, 13)
+}
+
+div.absolute_feet28 {
+    position: absolute;
+    top: 20px;
+    left: 220px;
+    background-color: rgb(34, 23, 13)
+}
